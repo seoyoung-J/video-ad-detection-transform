@@ -1,39 +1,13 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual environments
-.venv/
-venv/
-env/
-ENV/
-
-# Jupyter Notebook
 .ipynb_checkpoints/
 
-# Logs and databases
+# 실행 중 생성된 로그 및 데이터
 *.log
-db.sqlite3
-db.sqlite3-journal
-
-# ========== Project Specific ==========
-# Ignore large data and model files
 data/
-models/
-*.zip
 *.mp4
-
-# ========== Editors ==========
-# VSCode settings
-.vscode/
-# PyCharm settings
-.idea/
-
-# ========== Tools Cache ==========
-.mypy_cache/
-.pytest_cache/
-.dmypy.json
-.pyre/
-.pytype/
-.ruff_cache/
+*.jpg
+*.png
+*.zip
