@@ -80,3 +80,4 @@ YOLOv11과 SAM2 모델을 활용해 영상 내 옥외광고 영역을 자동으�
 ---  
 
 ### 참고 자료 
+- 상세 분석 과정은 [Notion](https://www.notion.so/2089627a91c780fcade0d705544b2633?source=copy_link)에 정리되어 있습니다. 
