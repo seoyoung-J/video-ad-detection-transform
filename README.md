@@ -19,7 +19,7 @@ YOLOv11과 SAM2 모델을 활용해 영상 내 옥외광고 영역을 자동으�
    - 영상 전처리 및 후처리
    - 광고 이미지 삽입 로직 개발
 - **사용 기술**
-   - Python, YOLOv11, SAM2, Supervision, Roboflow, MoviePy, OpenCV, FLUX, LoRA
+   - Python, YOLOv11, SAM2, Supervision, Roboflow, MoviePy, OpenCV
   
 ---
 
